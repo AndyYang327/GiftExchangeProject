@@ -1,0 +1,13 @@
+com/test/gifts/exchange/domain/Response.class
+com/test/gifts/exchange/domain/GiftExchange.class
+com/test/gifts/exchange/domain/FamilyMember.class
+com/test/gifts/exchange/services/FamilyMemberService.class
+com/test/gifts/exchange/services/GiftExchangeService.class
+com/test/gifts/exchange/GiftExchangeApplication.class
+com/test/gifts/exchange/controller/FamilyMembersController.class
+com/test/gifts/exchange/config/AppConfig.class
+com/test/gifts/exchange/domain/Response$Status.class
+com/test/gifts/exchange/exception/FamilyMemberAlreadyPresentException.class
+com/test/gifts/exchange/controller/GiftExchangeController.class
+com/test/gifts/exchange/dao/GiftRepository.class
+com/test/gifts/exchange/exception/FamilyMemberNotFoundException.class
